@@ -1,0 +1,2 @@
+# genamplify
+for practice 
